@@ -65,6 +65,4 @@
 
 #pragma mark Constants
 
-MAKE_SYSTEM_STR(SIMULATOR_ID,GAD_SIMULATOR_ID);
-
 @end
